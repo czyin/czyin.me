@@ -1,2 +1,2 @@
-# czyin.me
-czyin.me
+# blog
+https://czyin.me
