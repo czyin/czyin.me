@@ -34,6 +34,8 @@ exclude:
   - Gemfile.lock
   - Rakefile
 
+port: 8081
+
 # permalink: 'date'
 permalink: "/:categories/:year/:month/:day/:title"
 
