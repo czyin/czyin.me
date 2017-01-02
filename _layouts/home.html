@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="home">
+    <article class="post">
+        <header class="post-header">
+            <h1 class="post-title"><a href="{{ site.posts[0].url | prepend: site.baseurl }}">{{ site.posts[0].title }}</a></h1>
+            <p class="post-meta">
+                {{ site.posts[0].date | date: "%Y年%-m月%-d日" }}
+            </p>
+        </header>
+        <div class="post-content">
+            {{ site.posts[0].content }}
+        </div>
+    </article>
+</div>
