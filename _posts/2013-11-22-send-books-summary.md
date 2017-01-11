@@ -21,11 +21,11 @@ categories: tumblr
 
 书单
 
-[纸质书booklist整理1](/2013/11/09/booklist1)
+[纸质书booklist整理1](/tumblr/2013/11/09/booklist1)
 
-[纸质书booklist整理2](/2013/11/10/booklist2)
+[纸质书booklist整理2](/tumblr/2013/11/10/booklist2)
 
-[纸质书booklist整理3](/2013/11/21/booklist3)
+[纸质书booklist整理3](/tumblr/2013/11/21/booklist3)
 
 说明一下
 
